@@ -2,8 +2,7 @@
 
 Guandando dados celulares, mesmo que feche o app os dados vao estar lá
 
-<img src="https://user-images.githubusercontent.com/72177982/212381484-7aea4a9d-bb5d-43df-b1c7-6082f28bbf70.png" width="25%">
-<img src="https://user-images.githubusercontent.com/72177982/212381492-817b175a-357b-423a-916e-e61c4c679044.png" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/212381484-7aea4a9d-bb5d-43df-b1c7-6082f28bbf70.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212381492-817b175a-357b-423a-916e-e61c4c679044.png" width="25%">
 
 MainActivity
 
